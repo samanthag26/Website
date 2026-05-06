@@ -1,6 +1,39 @@
-body{
+#homepage {
 	background-image: url("background.png");
 	background-color: rgba(255,255,255,0.5);
 	background-blend-mode: lighten;
 	background-size: 100% auto;
+
 }
+
+#flavors {
+	background-color: #F3CACB;
+}
+
+
+.navbar {
+   background-color: #F30C17;
+   overflow: hidden;
+}
+
+.navbar a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.navbar a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.navbar a.active {
+   background-color: #04AA6D;
+   color: white;
+}
+
+
+
