@@ -10,9 +10,21 @@
 	background-color: #F3CACB;
 }
 
+#history {
+   background-color: #F3CACB;
+}  
+
+#recipe {
+   background-color: #F3CACB;
+}
+
+#types {
+   background-color: #F3CACB;
+}
+
 
 .navbar {
-   background-color: #F30C17;
+   background-color: #F49897;
    overflow: hidden;
 }
 
@@ -34,6 +46,17 @@
    background-color: #04AA6D;
    color: white;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container div {
+  margin: 10px;
+  padding: 10px;
+}
+
 
 
 
